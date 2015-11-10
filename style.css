@@ -8,12 +8,22 @@ html,body {
 	background-color: #FFE41C;
 }
 .icons {
+	float: right;
 	text-align: right;
 	position: relative;
-	margin-right: 100px;
-	margin-top: 20px;
+	right: 100px;
+	top: 20px;
 
 
+}
+h3 {
+	background-color: #fff;
+	border-radius: 0.35em;
+	padding: 9px;
+}
+.container {
+	position: relative;
+	top: 50px;
 }
 ul {
 	display: inline;
@@ -35,31 +45,12 @@ ul {
 .button {
 	position: relative;
 	float:right;
-	left: 300px;
-	top:130px;
+	top:430px;
+	left:190px;
 	vertical-align: middle;
 	height:25px;
 	width:150px;
-	background-color: #fff;
-	-moz-appearance: none;
-		-webkit-appearance: none;
-		-ms-appearance: none;
-		appearance: none;
-		-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-		border-radius: 6px;
-		color: #ffffff !important;
-		cursor: pointer;
-		display: inline-block;
-		font-weight: 700;
-		height: 2.75em;
-		line-height: 2.75em;
-		padding: 0 1.125em;
-		text-align: center;
-		text-decoration: none;
-		white-space: nowrap;
+	
 
 
 
@@ -73,11 +64,11 @@ a {
 img {
 	position: relative;
 	float:right;
-	margin-right: 130px;
-	bottom: 310px;
-	vertical-align: middle;
-	height: 450px;
-	width: 450px;
+	height: 400px;
+	width: 400px;
+	top: 60px;
+	left: 15px;
+	bottom: 20px;
 
 }
 h1,h2,h3,h4,h5,p {
@@ -86,11 +77,11 @@ h1,h2,h3,h4,h5,p {
 
 }
 h1 {
-	font-size: 50px;
+	font-size: 55px;
 }
 p {
-	line-height: 12px;
-	font-size: 15px;
+		font-size: 16px;
+		line-height: 22px;
 }
 .foot {
 	color: #fff;
