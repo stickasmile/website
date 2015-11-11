@@ -36,7 +36,7 @@ ul {
 .hello {
 	text-align: left;
 	margin-left: 50px;
-	margin-top: 190px;
+	margin-top: 100px;
 	position: relative;
 	vertical-align: middle;
 
@@ -64,11 +64,12 @@ a {
 img {
 	position: relative;
 	float:right;
-	height: 400px;
+	height: 480px;
 	width: 400px;
-	top: 60px;
+	top: 30px;
 	left: 15px;
-	bottom: 20px;
+	
+	padding-bottom:80px;
 
 }
 h1,h2,h3,h4,h5,p {
@@ -81,7 +82,7 @@ h1 {
 }
 p {
 		font-size: 16px;
-		line-height: 22px;
+		line-height: 24px;
 }
 .foot {
 	color: #fff;
