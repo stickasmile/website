@@ -9,9 +9,9 @@ html,body {
 }
 .icons {
 	float: right;
-	text-align: right;
+	text-align: center;
 	position: relative;
-	right: 100px;
+right: 20px;
 	top: 20px;
 
 
@@ -24,6 +24,7 @@ h3 {
 .container {
 	position: relative;
 	top: 50px;
+text-align: center;
 }
 ul {
 	display: inline;
@@ -34,9 +35,8 @@ ul {
 		letter-spacing: 6px;
 }
 .hello {
-	text-align: left;
-	margin-left: 50px;
-	margin-top: 100px;
+	text-align: center;
+	margin: 0 auto;
 	position: relative;
 	vertical-align: middle;
 
@@ -63,11 +63,9 @@ a {
 }
 img {
 	position: relative;
-	float:right;
+	margin: 0 auto;
 	height: 480px;
 	width: 400px;
-	top: 30px;
-	left: 15px;
 	
 	padding-bottom:80px;
 
