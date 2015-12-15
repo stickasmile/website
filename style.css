@@ -8,10 +8,9 @@ html,body {
 	background-color: #FFE41C;
 }
 .icons {
-	float: right;
+	margin:0 auto;
 	text-align: center;
 	position: relative;
-right: 20px;
 	top: 20px;
 
 
