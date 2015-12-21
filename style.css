@@ -8,10 +8,9 @@ html,body {
 	background-color: #FFE41C;
 }
 .icons {
-	float: right;
+	margin:0 auto;
 	text-align: center;
 	position: relative;
-right: 20px;
 	top: 20px;
 
 
@@ -64,10 +63,8 @@ a {
 img {
 	position: relative;
 	margin: 0 auto;
-	height: 420px;
+	height: 400px;
 	width: 400px;
-	
-	padding-bottom:3px;
 
 }
 h1,h2,h3,h4,h5,p {
@@ -81,6 +78,7 @@ h1 {
 p {
 		font-size: 14px;
 		line-height: 28px;
+		
 }
 .foot {
 	color: #fff;
