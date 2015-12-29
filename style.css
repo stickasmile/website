@@ -15,6 +15,11 @@ html,body {
 
 
 }
+.foot {
+	margin:0 auto;
+	text-align: center;
+	position: relative;
+}
 h3 {
 	background-color: #fff;
 	border-radius: 0.35em;
@@ -24,6 +29,12 @@ h3 {
 	position: relative;
 	top: 50px;
         text-align: center;
+}
+@media (max-width: 480px) {
+    img {
+    	width: 300px;
+    	height: 300px;
+    }
 }
 ul {
 	display: inline;
@@ -60,13 +71,15 @@ a {
 	font-size: inherit;
 	color: #000;
 }
-img {
+@media(min-width:480px){img {
 	position: relative;
 	margin: 0 auto;
 	height: 400px;
 	width: 400px;
 
 }
+}
+
 h1,h2,h3,h4,h5,p {
 	font-family: 'Montserrat', sans-serif;
 
@@ -79,12 +92,4 @@ p {
 		font-size: 14px;
 		line-height: 28px;
 		
-}
-.foot {
-	color: #fff;
-	text-align: left;
-	margin-left: 50px;
-	margin-top: 50px;
-	position: relative;
-	vertical-align: middle;	
 }
