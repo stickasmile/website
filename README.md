@@ -1,1 +1,2 @@
-Stick a Smile is a global initiative to bring positivity and happiness in the world by convincing people to smile by advertising smiling through stickers put everywhere in a respective city. We run ofd donation and sponsorship to provide, design and manufacture the stickers so go donate $1 and you will receive 3 stickers from the stickasmile collection. Have a good day, and remember to smile :)
+The website for stick a smile. I know it sucks, like a lot, but hey it's good enough for now.
+Working on something better as we speak!
